@@ -1,0 +1,44 @@
+{
+  "success": true,
+  "query": "indian flat bread roti",
+  "count": 5,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/c0c383605f18.jpg",
+      "caption": "",
+      "source": "Andrew Zimmern",
+      "original_width": "1600px",
+      "original_height": "800px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/da864d1e8bb6.jpg",
+      "caption": "",
+      "source": "Reddit",
+      "original_width": "1440px",
+      "original_height": "2157px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/e50976a23173.jpg",
+      "caption": "",
+      "source": "Hungry Lankan",
+      "original_width": "768px",
+      "original_height": "1024px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/408a857669fe.jpg",
+      "caption": "",
+      "source": "YouTube",
+      "original_width": "1280px",
+      "original_height": "720px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/c48aaaa0ba08.jpg",
+      "caption": "",
+      "source": "Dinner, then Dessert",
+      "original_width": "1200px",
+      "original_height": "900px"
+    }
+  ]
+}

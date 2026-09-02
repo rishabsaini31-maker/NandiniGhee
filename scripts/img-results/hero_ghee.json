@@ -1,0 +1,51 @@
+{
+  "success": true,
+  "query": "ghee jar wooden table",
+  "count": 6,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/5097c750dd8f.jpg",
+      "caption": "",
+      "source": "Amazon.in",
+      "original_width": "894px",
+      "original_height": "894px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/6012c8d2324f.jpg",
+      "caption": "",
+      "source": "Dreamstime.com",
+      "original_width": "1600px",
+      "original_height": "1130px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/2a4f39f4b89f.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "1300px",
+      "original_height": "956px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/26d331a57947.jpeg",
+      "caption": "",
+      "source": "Farmers' Almanac",
+      "original_width": "1200px",
+      "original_height": "800px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/a943b44ea213.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "866px",
+      "original_height": "1390px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/0d9f408c7fe1.jpg",
+      "caption": "",
+      "source": "Amazon.in",
+      "original_width": "1024px",
+      "original_height": "1536px"
+    }
+  ]
+}

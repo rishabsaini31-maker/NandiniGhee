@@ -1,0 +1,51 @@
+{
+  "success": true,
+  "query": "mixed dry fruits and nuts in premium bowl flat lay",
+  "count": 6,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/1f5c95fcbb15.webp",
+      "caption": "",
+      "source": "Kashmiril",
+      "original_width": "1024px",
+      "original_height": "1024px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/ce9dd3e1a1aa.jpg",
+      "caption": "",
+      "source": "Magnific",
+      "original_width": "1280px",
+      "original_height": "720px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/c61fae171394.jpg",
+      "caption": "",
+      "source": "Insigne Art Design",
+      "original_width": "1200px",
+      "original_height": "863px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/a0526b65ff8c.jpg",
+      "caption": "",
+      "source": "Insigne Art Design",
+      "original_width": "1200px",
+      "original_height": "1199px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/fc2a6a4b5415.jpg",
+      "caption": "",
+      "source": "Shutterstock",
+      "original_width": "1500px",
+      "original_height": "1225px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/6051ebe668ab.jpg",
+      "caption": "",
+      "source": "KoRo",
+      "original_width": "1430px",
+      "original_height": "2002px"
+    }
+  ]
+}

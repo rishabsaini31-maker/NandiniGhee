@@ -1,0 +1,51 @@
+{
+  "success": true,
+  "query": "indian thali breakfast",
+  "count": 6,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/7499b6c9206b.jpg",
+      "caption": "",
+      "source": "MASTERCHEFMOM",
+      "original_width": "1272px",
+      "original_height": "1600px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/7e8e3f7258a3.jpg",
+      "caption": "",
+      "source": "recipes.timesofindia.com",
+      "original_width": "720px",
+      "original_height": "1280px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/f8e7b8ae688e.jpg",
+      "caption": "",
+      "source": "Yelp",
+      "original_width": "1000px",
+      "original_height": "1000px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/6fda65b4f5c3.jpeg",
+      "caption": "",
+      "source": "Indian Cooking Manual",
+      "original_width": "2560px",
+      "original_height": "1920px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/81227ac19a79.jpg",
+      "caption": "",
+      "source": "Tripadvisor",
+      "original_width": "1200px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/7467dd5640ad.jpg",
+      "caption": "",
+      "source": "YouTube",
+      "original_width": "1280px",
+      "original_height": "720px"
+    }
+  ]
+}

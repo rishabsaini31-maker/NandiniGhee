@@ -1,0 +1,255 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+
+@custom-variant dark (&:is(.dark *));
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-inter);
+  --font-serif: var(--font-fraunces);
+  --font-mono: var(--font-geist-mono);
+  --color-ring: var(--ring);
+  --color-input: var(--input);
+  --color-border: var(--border);
+  --color-destructive: var(--destructive);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-accent: var(--accent);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-muted: var(--muted);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-secondary: var(--secondary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-primary: var(--primary);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-popover: var(--popover);
+  --color-card-foreground: var(--card-foreground);
+  --color-card: var(--card);
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+
+  /* ─── NANDINI brand palette ─── */
+  --color-forest-950: #0d1a12;
+  --color-forest-900: #12211a;
+  --color-forest-800: #182b21;
+  --color-forest-700: #1f3a2b;
+  --color-forest-600: #26492f;
+  --color-forest-500: #2f5738;
+  --color-forest-400: #45684e;
+  --color-forest-300: #6d8a74;
+  --color-forest-200: #a3b8a6;
+  --color-forest-100: #d3dfd4;
+  --color-forest-50: #edf2ec;
+
+  --color-gold-700: #8a6420;
+  --color-gold-600: #a87e2b;
+  --color-gold-500: #c09a45;
+  --color-gold-400: #d0af62;
+  --color-gold-300: #ddc48b;
+  --color-gold-200: #ecdcb8;
+  --color-gold-100: #f6edd9;
+  --color-gold-50: #fbf7ec;
+
+  --color-ivory: #faf6ed;
+  --color-cream: #f4eee1;
+  --color-sand: #ebe2cd;
+  --color-parchment: #f8f3e8;
+
+  --color-cocoa-900: #241a10;
+  --color-cocoa-800: #2e2216;
+  --color-cocoa-700: #3a2c1d;
+  --color-cocoa-600: #4d3d2a;
+  --color-cocoa-500: #6b5a42;
+  --color-cocoa-400: #8a7a63;
+  --color-cocoa-300: #a99a85;
+  --color-cocoa-200: #cdc2b1;
+
+  --color-terra-600: #9c4a26;
+  --color-terra-500: #b4552d;
+  --color-terra-100: #f3ddd2;
+}
+
+:root {
+  --radius: 0.375rem;
+  --background: #faf6ed;
+  --foreground: #241a10;
+  --card: #fffdf8;
+  --card-foreground: #241a10;
+  --popover: #fffdf8;
+  --popover-foreground: #241a10;
+  --primary: #1f3a2b;
+  --primary-foreground: #f6f1e3;
+  --secondary: #f4eee1;
+  --secondary-foreground: #2e2216;
+  --muted: #f0e9d8;
+  --muted-foreground: #6b5a42;
+  --accent: #f4eee1;
+  --accent-foreground: #2e2216;
+  --destructive: #b3402a;
+  --border: #e4dbc6;
+  --input: #e0d6bf;
+  --ring: #c09a45;
+}
+
+.dark {
+  --background: #12211a;
+  --foreground: #f6f1e3;
+  --card: #182b21;
+  --card-foreground: #f6f1e3;
+  --popover: #182b21;
+  --popover-foreground: #f6f1e3;
+  --primary: #d0af62;
+  --primary-foreground: #12211a;
+  --secondary: #1f3a2b;
+  --secondary-foreground: #f6f1e3;
+  --muted: #1f3a2b;
+  --muted-foreground: #a3b8a6;
+  --accent: #1f3a2b;
+  --accent-foreground: #f6f1e3;
+  --destructive: #e06a4c;
+  --border: rgba(211, 223, 212, 0.14);
+  --input: rgba(211, 223, 212, 0.18);
+  --ring: #c09a45;
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    @apply bg-background text-foreground;
+    font-feature-settings: "ss01", "cv11";
+  }
+  ::selection {
+    background: #d0af62;
+    color: #12211a;
+  }
+}
+
+@layer utilities {
+  .font-display {
+    font-family: var(--font-fraunces), Georgia, serif;
+  }
+  .text-balance {
+    text-wrap: balance;
+  }
+  /* Eyebrow label — small caps gold tracking */
+  .eyebrow {
+    @apply text-[11px] font-semibold uppercase tracking-[0.28em];
+  }
+  /* Thin elegant scrollbar */
+  .scrollbar-thin::-webkit-scrollbar {
+    width: 5px;
+    height: 5px;
+  }
+  .scrollbar-thin::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  .scrollbar-thin::-webkit-scrollbar-thumb {
+    background: #cdc2b1;
+    border-radius: 999px;
+  }
+  .scrollbar-thin::-webkit-scrollbar-thumb:hover {
+    background: #a99a85;
+  }
+  /* Hide scrollbar for carousels */
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+  .no-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+  /* Gold hairline divider */
+  .gold-hairline {
+    background: linear-gradient(
+      90deg,
+      transparent,
+      rgba(192, 154, 69, 0.55) 20%,
+      rgba(192, 154, 69, 0.55) 80%,
+      transparent
+    );
+    height: 1px;
+  }
+  /* Subtle Rajasthani jharokha arch mask for imagery */
+  .arch-top {
+    border-top-left-radius: 999px;
+    border-top-right-radius: 999px;
+  }
+  /* Fine noise texture overlay for premium feel */
+  .texture-grain {
+    position: relative;
+  }
+  .texture-grain::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+    opacity: 0.035;
+    background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+  }
+  /* Marquee animation for announcement */
+  @keyframes marquee {
+    0% {
+      transform: translateX(0);
+    }
+    100% {
+      transform: translateX(-50%);
+    }
+  }
+  .animate-marquee {
+    animation: marquee 32s linear infinite;
+  }
+  /* Heart beat pop */
+  @keyframes heart-pop {
+    0% {
+      transform: scale(1);
+    }
+    40% {
+      transform: scale(1.45);
+    }
+    70% {
+      transform: scale(0.9);
+    }
+    100% {
+      transform: scale(1);
+    }
+  }
+  .animate-heart-pop {
+    animation: heart-pop 0.45s ease-in-out;
+  }
+  /* Badge pulse for notifications */
+  @keyframes badge-pop {
+    0% {
+      transform: scale(0);
+    }
+    60% {
+      transform: scale(1.25);
+    }
+    100% {
+      transform: scale(1);
+    }
+  }
+  .animate-badge-pop {
+    animation: badge-pop 0.35s cubic-bezier(0.34, 1.56, 0.64, 1);
+  }
+  /* Flying dot for add-to-cart */
+  @keyframes fly-to-cart {
+    0% {
+      transform: translate(0, 0) scale(1);
+      opacity: 1;
+    }
+    100% {
+      transform: translate(var(--fly-x, 0), var(--fly-y, -260px)) scale(0.2);
+      opacity: 0;
+    }
+  }
+  .animate-fly-to-cart {
+    animation: fly-to-cart 0.7s cubic-bezier(0.5, -0.2, 0.7, 1) forwards;
+  }
+}

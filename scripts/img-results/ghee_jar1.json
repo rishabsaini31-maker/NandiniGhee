@@ -1,0 +1,65 @@
+{
+  "success": true,
+  "query": "ghee glass jar minimal premium product photography beige background",
+  "count": 8,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/89d6ae576b13.jpg",
+      "caption": "",
+      "source": "Anveshan",
+      "original_width": "1946px",
+      "original_height": "1946px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/7f24f5a63e84.jpg",
+      "caption": "",
+      "source": "Buy Nebraska",
+      "original_width": "1024px",
+      "original_height": "1024px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/20888c492946.png",
+      "caption": "",
+      "source": "Jivika Pure",
+      "original_width": "1946px",
+      "original_height": "1946px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/14d79bb9dcd4.jpg",
+      "caption": "",
+      "source": "Barsana Magic",
+      "original_width": "1946px",
+      "original_height": "1946px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/7c58aa690d52.webp",
+      "caption": "",
+      "source": "miriyam market",
+      "original_width": "1024px",
+      "original_height": "1536px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/eb31ac2cac9a.jpg",
+      "caption": "",
+      "source": "Ajanta Bottle",
+      "original_width": "3333px",
+      "original_height": "3333px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/ba8ad6edd7c3.jpg",
+      "caption": "",
+      "source": "Bulletproof Shop - Bulletproof Coffee",
+      "original_width": "1024px",
+      "original_height": "1024px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/cf1d99eeb469.png",
+      "caption": "",
+      "source": "Shuddham Gaushaala - Shuddham Gaushaala",
+      "original_width": "1086px",
+      "original_height": "1449px"
+    }
+  ]
+}

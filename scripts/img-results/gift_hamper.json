@@ -1,0 +1,65 @@
+{
+  "success": true,
+  "query": "dry fruit gift box hamper festive",
+  "count": 8,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/80b20bc61c64.jpg",
+      "caption": "",
+      "source": "RawFruit",
+      "original_width": "1200px",
+      "original_height": "1680px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/b2aed62d7057.jpg",
+      "caption": "",
+      "source": "www.lauramfoley.com",
+      "original_width": "1946px",
+      "original_height": "1946px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/1b521faf09c6.png",
+      "caption": "",
+      "source": "Dos Olivos Markets",
+      "original_width": "920px",
+      "original_height": "920px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/04fa8ddf9e62.jpg",
+      "caption": "",
+      "source": "Healthy Treat",
+      "original_width": "1500px",
+      "original_height": "1500px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/7ccdda119d4d.jpg",
+      "caption": "",
+      "source": "Frog Hollow Farm",
+      "original_width": "1024px",
+      "original_height": "1024px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/87fdf9170b49.jpg",
+      "caption": "",
+      "source": "Italian Shoe Factory",
+      "original_width": "1600px",
+      "original_height": "1600px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/b530e072d097.jpg",
+      "caption": "",
+      "source": "Twisted Citrus",
+      "original_width": "1080px",
+      "original_height": "1080px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/77c3365cca9b.jpg",
+      "caption": "",
+      "source": "Etsy",
+      "original_width": "2250px",
+      "original_height": "3000px"
+    }
+  ]
+}

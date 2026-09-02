@@ -1,0 +1,51 @@
+{
+  "success": true,
+  "query": "medjool dates jumbo in bowl food photography",
+  "count": 6,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/826d8cec4b8f.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "867px",
+      "original_height": "1390px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/d12cf200d9c6.jpg",
+      "caption": "",
+      "source": "At the Immigrant's Table",
+      "original_width": "1200px",
+      "original_height": "1800px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/d066af0042fe.png",
+      "caption": "",
+      "source": "Bazar Al Haya",
+      "original_width": "800px",
+      "original_height": "1199px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/559215c6f146.jpg",
+      "caption": "",
+      "source": "daraeats",
+      "original_width": "1200px",
+      "original_height": "1600px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/2523c05dc39c.png",
+      "caption": "",
+      "source": "Bazar Al Haya",
+      "original_width": "800px",
+      "original_height": "1199px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/a6433ceb6982.webp",
+      "caption": "",
+      "source": "NY Spice Shop",
+      "original_width": "1946px",
+      "original_height": "1946px"
+    }
+  ]
+}

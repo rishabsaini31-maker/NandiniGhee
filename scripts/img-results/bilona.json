@@ -1,0 +1,51 @@
+{
+  "success": true,
+  "query": "traditional Indian butter churning clay pot wooden churner",
+  "count": 6,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/3b2f0e5c4d75.jpg",
+      "caption": "",
+      "source": "Etsy",
+      "original_width": "2250px",
+      "original_height": "3000px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/ebc1d5fcd103.jpg",
+      "caption": "",
+      "source": "Etsy",
+      "original_width": "2354px",
+      "original_height": "2992px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/acb0669e38e3.jpg",
+      "caption": "",
+      "source": "Amazon.in",
+      "original_width": "894px",
+      "original_height": "894px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/68e87842a932.jpg",
+      "caption": "",
+      "source": "eBay",
+      "original_width": "900px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/2fb253e66f6d.jpg",
+      "caption": "",
+      "source": "Chez Pluie",
+      "original_width": "768px",
+      "original_height": "1024px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/51646824dee5.jpg",
+      "caption": "",
+      "source": "Amazon.in",
+      "original_width": "1149px",
+      "original_height": "1614px"
+    }
+  ]
+}

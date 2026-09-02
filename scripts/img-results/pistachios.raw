@@ -1,0 +1,54 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "pistachios closeup"
+✅ Got 6 images
+{
+  "success": true,
+  "query": "pistachios closeup",
+  "count": 6,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/dc5409a26874.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "1300px",
+      "original_height": "1390px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/6a9e43908f7c.webp",
+      "caption": "",
+      "source": "House of Rasda",
+      "original_width": "1080px",
+      "original_height": "1080px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/e22b5be89d04.jpg",
+      "caption": "",
+      "source": "Dreamstime.com",
+      "original_width": "1600px",
+      "original_height": "1157px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/2f64df83adc3.jpg",
+      "caption": "",
+      "source": "Swanson Vitamins",
+      "original_width": "900px",
+      "original_height": "900px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/77bec41ed9fe.jpeg",
+      "caption": "",
+      "source": "College of Agricultural and Environmental Sciences - UC Davis",
+      "original_width": "1280px",
+      "original_height": "720px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/0bb922294d17.png",
+      "caption": "",
+      "source": "Afghan Market",
+      "original_width": "1946px",
+      "original_height": "1293px"
+    }
+  ]
+}

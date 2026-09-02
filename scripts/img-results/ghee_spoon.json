@@ -1,0 +1,44 @@
+{
+  "success": true,
+  "query": "ghee golden liquid spoon macro",
+  "count": 5,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/afc0e049d20b.jpg",
+      "caption": "",
+      "source": "Today Show",
+      "original_width": "760px",
+      "original_height": "1140px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/a112cc549023.jpg",
+      "caption": "",
+      "source": "123RF",
+      "original_width": "1300px",
+      "original_height": "866px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/0a41b5f4475f.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "866px",
+      "original_height": "1390px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/d999fc784339.jpg",
+      "caption": "",
+      "source": "Sowaka Foods",
+      "original_width": "3840px",
+      "original_height": "5760px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/8ffe206a84bd.jpg",
+      "caption": "",
+      "source": "Rachael's Good Eats",
+      "original_width": "1200px",
+      "original_height": "1799px"
+    }
+  ]
+}

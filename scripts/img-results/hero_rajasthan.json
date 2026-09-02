@@ -1,0 +1,44 @@
+{
+  "success": true,
+  "query": "Rajasthan India countryside desert palace golden hour landscape",
+  "count": 5,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/ce2e8d8e338d.jpg",
+      "caption": "",
+      "source": "GetYourGuide",
+      "original_width": "1440px",
+      "original_height": "810px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/5cfb05a91cea.jpg",
+      "caption": "",
+      "source": "Audley Travel",
+      "original_width": "1920px",
+      "original_height": "685px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/5f8053fd4341.jpg",
+      "caption": "",
+      "source": "The Pioneer",
+      "original_width": "1240px",
+      "original_height": "720px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/a41101c1d998.jpg",
+      "caption": "",
+      "source": "LA Times",
+      "original_width": "1200px",
+      "original_height": "711px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/aa74b9957b8b.jpg",
+      "caption": "",
+      "source": "On The Go Tours",
+      "original_width": "1300px",
+      "original_height": "975px"
+    }
+  ]
+}

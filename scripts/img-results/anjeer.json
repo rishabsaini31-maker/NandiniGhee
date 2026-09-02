@@ -1,0 +1,51 @@
+{
+  "success": true,
+  "query": "dried figs anjeer in bowl food photography",
+  "count": 6,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/7f4159afe3ea.jpg",
+      "caption": "",
+      "source": "Etsy",
+      "original_width": "3000px",
+      "original_height": "3000px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/93e07ac077a0.jpg",
+      "caption": "",
+      "source": "The Times of India",
+      "original_width": "1280px",
+      "original_height": "720px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/07387393bb80.jpg",
+      "caption": "",
+      "source": "DepositPhotos",
+      "original_width": "1600px",
+      "original_height": "1565px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/e32e00f2b7eb.jpg",
+      "caption": "",
+      "source": "News18",
+      "original_width": "1469px",
+      "original_height": "980px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/fee434d3d1c7.jpg",
+      "caption": "",
+      "source": "IYIA Food Group",
+      "original_width": "1946px",
+      "original_height": "2595px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/8e2f39ae4fee.jpg",
+      "caption": "",
+      "source": "123RF",
+      "original_width": "1300px",
+      "original_height": "868px"
+    }
+  ]
+}

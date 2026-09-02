@@ -1,0 +1,54 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "premium almonds in wooden bowl top view food photography"
+✅ Got 6 images
+{
+  "success": true,
+  "query": "premium almonds in wooden bowl top view food photography",
+  "count": 6,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/c4cbe8018e3c.png",
+      "caption": "",
+      "source": "www.nationwideloghomes.com",
+      "original_width": "2000px",
+      "original_height": "2000px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/8dcdec7fa886.jpg",
+      "caption": "",
+      "source": "Nutty Yogi",
+      "original_width": "1200px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/8adf0339cef6.jpg",
+      "caption": "",
+      "source": "Heerson",
+      "original_width": "1200px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/d9b7b9230230.webp",
+      "caption": "",
+      "source": "Marudhar Mewa",
+      "original_width": "1440px",
+      "original_height": "810px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/413a46af1d2d.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "866px",
+      "original_height": "1390px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/cd17d6ab99fd.png",
+      "caption": "",
+      "source": "www.lauramfoley.com",
+      "original_width": "1024px",
+      "original_height": "1024px"
+    }
+  ]
+}

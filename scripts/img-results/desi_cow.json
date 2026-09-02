@@ -1,0 +1,51 @@
+{
+  "success": true,
+  "query": "gir cow cowshed India",
+  "count": 6,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/0e64ae0b372f.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "1300px",
+      "original_height": "956px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/f864f2be8bb4.jpg",
+      "caption": "",
+      "source": "ArchiDiaries",
+      "original_width": "1200px",
+      "original_height": "800px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/50a5165863b4.jpg",
+      "caption": "",
+      "source": "Designboom",
+      "original_width": "818px",
+      "original_height": "1227px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/cafd0145e013.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "1300px",
+      "original_height": "821px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/df8c35f53cf3.jpg",
+      "caption": "",
+      "source": "Dreamstime.com",
+      "original_width": "1200px",
+      "original_height": "1690px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/af3ce0c3c6dc.jpg",
+      "caption": "",
+      "source": "Justdial",
+      "original_width": "1280px",
+      "original_height": "1280px"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "golden raisins kishmish bowl"
+✅ Got 5 images
+{
+  "success": true,
+  "query": "golden raisins kishmish bowl",
+  "count": 5,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/5077fb4a292c.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "1300px",
+      "original_height": "957px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/db1aa0d59236.jpg",
+      "caption": "",
+      "source": "Grand Turkish Bazaar",
+      "original_width": "1200px",
+      "original_height": "800px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/fd6159957416.jpg",
+      "caption": "",
+      "source": "Treasures of Kashmir",
+      "original_width": "1024px",
+      "original_height": "1024px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/1b4cc8b3261b.jpg",
+      "caption": "",
+      "source": "Ritikart",
+      "original_width": "1000px",
+      "original_height": "1000px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/1d698395b508.jpg",
+      "caption": "",
+      "source": "Amazon.com",
+      "original_width": "894px",
+      "original_height": "894px"
+    }
+  ]
+}
